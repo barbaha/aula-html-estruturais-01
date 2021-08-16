@@ -1,0 +1,19 @@
+{
+  "name": "aula-html-estruturais-01",
+  "version": "1.0.0",
+  "description": "Projeto criado para aula prática de elementos estruturais em HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbaha/aula-html-estruturais-01.git"
+  },
+  "author": "Barbaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbaha/aula-html-estruturais-01/issues"
+  },
+  "homepage": "https://github.com/barbaha/aula-html-estruturais-01#readme"
+}
